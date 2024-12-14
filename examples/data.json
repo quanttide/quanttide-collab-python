@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2e9954db-4f65-41ab-8b60-6e6f9574d990",
+    "title": "组建项目部议事机构",
+    "description": "描述内容",
+    "work_document": "文档链接",
+    "owner": "f07e4e23-dc27-4011-bf07-cd8f9c12baf9",
+    "reviewer": "30c4e426-f7d4-4b22-ae59-5f1a09b10a5f",
+    "responsible_department": "数据云-办公室",
+    "task": [
+      {
+        "title": "梳理协作秘书岗位职责",
+        "description": "任务描述",
+        "priority": 1,
+        "status": "进行中",
+        "owner": "f07e4e23-dc27-4011-bf07-cd8f9c12baf9",
+        "reviewer": "30c4e426-f7d4-4b22-ae59-5f1a09b10a5f"
+      }
+    ],
+    "plan": "任务计划",
+    "discussion": "讨论内容",
+    "thesis": "议题内容",
+    "group": "小组名称",
+    "created_at": "2024-12-10 12:00:00",
+    "updated_at": "2024-12-10 12:30:00",
+    "created_by": "f07e4e23-dc27-4011-bf07-cd8f9c12baf9",
+    "updated_by": "30c4e426-f7d4-4b22-ae59-5f1a09b10a5f",
+    "correlation": "相关内容"
+  }
+]
