@@ -6,9 +6,9 @@ build-backend = "pdm.backend"
 # name it as your package name
 name = "quanttide-collab"
 # semetric versions
-version = "0.1.0-alpha.1"
+version = "0.0.1"
 # describe the package within one sentence
-description = "Python Toolkits for QuantTide Collaboration"
+description = "量潮团队协作领域模型库Python版"
 authors = [{name = "QuantTide Inc.", email = "opensource@quanttide.com"}]
 classifiers = [
     "Programming Language :: Python :: 3",
